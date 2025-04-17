@@ -1,0 +1,25 @@
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/@spryker/oryx-for-zed/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!./vendor/spryker/dynamic-entity-gui/assets/Zed/scss/main.scss ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.de-edit-table {
+  text-align: center;
+}
+
+.de-edit-table-th-widht-200 {
+  width: 200px;
+}
+
+.de-edit-table-no-padding {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+.de-edit-table-no-padding input {
+  padding-left: 2px;
+  padding-right: 3px;
+}
+
+.de-edit-table-errors li {
+  color: #f2392e !important;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jc3Mvc3ByeWtlci16ZWQtZHluYW1pYy1lbnRpdHktZ3VpLW1haW4uY3NzIiwibWFwcGluZ3MiOiI7OztBQUFBO0VBQ0k7QUFDSjs7QUFFQTtFQUNJO0FBQ0o7O0FBQ0E7RUFDSTtFQUNBO0FBRUo7QUFESTtFQUNJO0VBQ0E7QUFHUjs7QUFDSTtFQUNJO0FBRVIsQyIsInNvdXJjZXMiOlsid2VicGFjazovL3NwcnlrZXItYjJjLWRlbW8tc2hvcC8uL3ZlbmRvci9zcHJ5a2VyL2R5bmFtaWMtZW50aXR5LWd1aS9hc3NldHMvWmVkL3Njc3MvbWFpbi5zY3NzIl0sInNvdXJjZXNDb250ZW50IjpbIi5kZS1lZGl0LXRhYmxlIHtcbiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG59XG5cbi5kZS1lZGl0LXRhYmxlLXRoLXdpZGh0LTIwMCB7XG4gICAgd2lkdGg6IDIwMHB4O1xufVxuLmRlLWVkaXQtdGFibGUtbm8tcGFkZGluZyB7XG4gICAgcGFkZGluZy1sZWZ0OiAwcHggIWltcG9ydGFudDtcbiAgICBwYWRkaW5nLXJpZ2h0OiAwcHggIWltcG9ydGFudDtcbiAgICBpbnB1dCB7XG4gICAgICAgIHBhZGRpbmctbGVmdDogMnB4O1xuICAgICAgICBwYWRkaW5nLXJpZ2h0OiAzcHg7XG4gICAgfVxufVxuLmRlLWVkaXQtdGFibGUtZXJyb3JzIHtcbiAgICBsaSB7XG4gICAgICAgIGNvbG9yOiAjZjIzOTJlICFpbXBvcnRhbnQ7XG4gICAgfVxufVxuIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9*/

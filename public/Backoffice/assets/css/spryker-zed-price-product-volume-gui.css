@@ -1,0 +1,14 @@
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/@spryker/oryx-for-zed/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!./vendor/spryker/price-product-volume-gui/assets/Zed/sass/spryker-zed-price-product-volume-gui.scss ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.price-volume-table {
+  margin-bottom: 15px;
+}
+.price-volume-table td {
+  padding-bottom: 5px;
+}
+.price-volume-table td:nth-of-type(even) {
+  padding-left: 15px;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jc3Mvc3ByeWtlci16ZWQtcHJpY2UtcHJvZHVjdC12b2x1bWUtZ3VpLmNzcyIsIm1hcHBpbmdzIjoiOzs7QUFBQTtFQUNJO0FBQ0o7QUFDSTtFQUNJO0FBQ1I7QUFDUTtFQUNJO0FBQ1osQyIsInNvdXJjZXMiOlsid2VicGFjazovL3NwcnlrZXItYjJjLWRlbW8tc2hvcC8uL3ZlbmRvci9zcHJ5a2VyL3ByaWNlLXByb2R1Y3Qtdm9sdW1lLWd1aS9hc3NldHMvWmVkL3Nhc3Mvc3ByeWtlci16ZWQtcHJpY2UtcHJvZHVjdC12b2x1bWUtZ3VpLnNjc3MiXSwic291cmNlc0NvbnRlbnQiOlsiLnByaWNlLXZvbHVtZS10YWJsZSB7XG4gICAgbWFyZ2luLWJvdHRvbTogMTVweDtcblxuICAgIHRkIHtcbiAgICAgICAgcGFkZGluZy1ib3R0b206IDVweDtcblxuICAgICAgICAmOm50aC1vZi10eXBlKGV2ZW4pIHtcbiAgICAgICAgICAgIHBhZGRpbmctbGVmdDogMTVweDtcbiAgICAgICAgfVxuICAgIH1cbn1cbiJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==*/

@@ -1,0 +1,67 @@
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/@spryker/oryx-for-zed/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!./vendor/spryker/cms/assets/Zed/sass/main.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/**
+ * Copyright (c) 2016-present Spryker Systems GmbH. All rights reserved. 
+ * Use of this software requires acceptance of the Evaluation License Agreement. See LICENSE file. 
+ */
+#spy-cms.glossary hr {
+  border: 1px dashed #eee;
+}
+#spy-cms.glossary .loading {
+  display: none;
+  position: absolute;
+}
+#spy-cms.glossary .loading img {
+  display: inline;
+  width: 15px;
+}
+#spy-cms.glossary .translation {
+  padding-top: 10px;
+}
+#spy-cms.glossary .small-padding {
+  padding: 10px;
+}
+#spy-cms.glossary .alert {
+  font-weight: bold;
+}
+#spy-cms.glossary .alert .gray {
+  color: gray;
+}
+#spy-cms.glossary .alert .green {
+  color: green;
+}
+#spy-cms.glossary .alert .red {
+  color: red;
+}
+#spy-cms.glossary .key-container {
+  display: none;
+  position: absolute;
+  width: 400px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  color: #676a6c;
+  overflow-x: hidden;
+  font-size: 14px;
+}
+#spy-cms.glossary .key-list {
+  width: 100%;
+  height: 100%;
+  max-height: 240px;
+}
+
+select.key-list {
+  border: 1px solid #999;
+}
+select.key-list option {
+  height: 20px;
+  line-height: 20px;
+  display: block;
+  padding-top: 3px;
+}
+select.key-list option:hover {
+  background: #dfdfdf;
+  line-height: 20px;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jc3Mvc3ByeWtlci16ZWQtY21zLW1haW4uY3NzIiwibWFwcGluZ3MiOiI7OztBQUFBOzs7RUFBQTtBQU1JO0VBQ0k7QUFEUjtBQUdJO0VBQ0k7RUFDQTtBQURSO0FBRVE7RUFDSTtFQUNBO0FBQVo7QUFHSTtFQUNJO0FBRFI7QUFHSTtFQUNJO0FBRFI7QUFHSTtFQUNJO0FBRFI7QUFFUTtFQUNJO0FBQVo7QUFFUTtFQUNJO0FBQVo7QUFFUTtFQUNJO0FBQVo7QUFHSTtFQUNJO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7QUFEUjtBQUdJO0VBQ0k7RUFDQTtFQUNBO0FBRFI7O0FBS0E7RUFDSTtBQUZKO0FBSUk7RUFDSTtFQUNBO0VBQ0E7RUFDQTtBQUZSO0FBSVE7RUFDSTtFQUNBO0FBRlosQyIsInNvdXJjZXMiOlsid2VicGFjazovL3NwcnlrZXItYjJjLWRlbW8tc2hvcC8uL3ZlbmRvci9zcHJ5a2VyL2Ntcy9hc3NldHMvWmVkL3Nhc3MvbWFpbi5zY3NzIl0sInNvdXJjZXNDb250ZW50IjpbIi8qKlxuICogQ29weXJpZ2h0IChjKSAyMDE2LXByZXNlbnQgU3ByeWtlciBTeXN0ZW1zIEdtYkguIEFsbCByaWdodHMgcmVzZXJ2ZWQuIFxuICogVXNlIG9mIHRoaXMgc29mdHdhcmUgcmVxdWlyZXMgYWNjZXB0YW5jZSBvZiB0aGUgRXZhbHVhdGlvbiBMaWNlbnNlIEFncmVlbWVudC4gU2VlIExJQ0VOU0UgZmlsZS4gXG4gKi9cblxuI3NweS1jbXMuZ2xvc3Nhcnkge1xuICAgIGhyIHtcbiAgICAgICAgYm9yZGVyOiAxcHggZGFzaGVkICNlZWU7XG4gICAgfVxuICAgIC5sb2FkaW5nIHtcbiAgICAgICAgZGlzcGxheTogbm9uZTtcbiAgICAgICAgcG9zaXRpb246IGFic29sdXRlO1xuICAgICAgICBpbWcge1xuICAgICAgICAgICAgZGlzcGxheTogaW5saW5lO1xuICAgICAgICAgICAgd2lkdGg6IDE1cHg7XG4gICAgICAgIH1cbiAgICB9XG4gICAgLnRyYW5zbGF0aW9uIHtcbiAgICAgICAgcGFkZGluZy10b3A6IDEwcHg7XG4gICAgfVxuICAgIC5zbWFsbC1wYWRkaW5nIHtcbiAgICAgICAgcGFkZGluZzogMTBweDtcbiAgICB9XG4gICAgLmFsZXJ0IHtcbiAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7XG4gICAgICAgIC5ncmF5IHtcbiAgICAgICAgICAgIGNvbG9yOiBncmF5O1xuICAgICAgICB9XG4gICAgICAgIC5ncmVlbiB7XG4gICAgICAgICAgICBjb2xvcjogZ3JlZW47XG4gICAgICAgIH1cbiAgICAgICAgLnJlZCB7XG4gICAgICAgICAgICBjb2xvcjogcmVkO1xuICAgICAgICB9XG4gICAgfVxuICAgIC5rZXktY29udGFpbmVyIHtcbiAgICAgICAgZGlzcGxheTogbm9uZTtcbiAgICAgICAgcG9zaXRpb246IGFic29sdXRlO1xuICAgICAgICB3aWR0aDogNDAwcHg7XG4gICAgICAgIGZvbnQtZmFtaWx5OiBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmO1xuICAgICAgICBmb250LXNpemU6IDEzcHg7XG4gICAgICAgIGNvbG9yOiAjNjc2YTZjO1xuICAgICAgICBvdmVyZmxvdy14OiBoaWRkZW47XG4gICAgICAgIGZvbnQtc2l6ZTogMTRweDtcbiAgICB9XG4gICAgLmtleS1saXN0IHtcbiAgICAgICAgd2lkdGg6IDEwMCU7XG4gICAgICAgIGhlaWdodDogMTAwJTtcbiAgICAgICAgbWF4LWhlaWdodDogMjQwcHg7XG4gICAgfVxufVxuXG5zZWxlY3Qua2V5LWxpc3Qge1xuICAgIGJvcmRlcjogMXB4IHNvbGlkICM5OTk7XG5cbiAgICBvcHRpb24ge1xuICAgICAgICBoZWlnaHQ6IDIwcHg7XG4gICAgICAgIGxpbmUtaGVpZ2h0OiAyMHB4O1xuICAgICAgICBkaXNwbGF5OiBibG9jaztcbiAgICAgICAgcGFkZGluZy10b3A6IDNweDtcblxuICAgICAgICAmOmhvdmVyIHtcbiAgICAgICAgICAgIGJhY2tncm91bmQ6ICNkZmRmZGY7XG4gICAgICAgICAgICBsaW5lLWhlaWdodDogMjBweDtcbiAgICAgICAgfVxuICAgIH1cbn1cbiJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==*/

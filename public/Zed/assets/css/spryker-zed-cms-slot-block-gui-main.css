@@ -1,0 +1,79 @@
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/@spryker/oryx-for-zed/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!./vendor/spryker/cms-slot-block-gui/assets/Zed/sass/main.scss ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/**
+ * Copyright (c) 2016-present Spryker Systems GmbH. All rights reserved.
+ * Use of this software requires acceptance of the Evaluation License Agreement. See LICENSE file.
+ */
+.cms-slot-blocks {
+  position: relative;
+}
+.cms-slot-blocks__col:not(:first-child) {
+  padding-left: 0;
+}
+.cms-slot-blocks__col:last-child {
+  text-align: right;
+}
+.cms-slot-blocks__overlay {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 10;
+}
+.cms-slot-blocks__overlay--hidden {
+  display: none;
+}
+.cms-slot-blocks .select2-container .select2-selection--single, .cms-slot-blocks .select2-container .select2-selection--single__arrow,
+.cms-slot-blocks .select2-container .select2-selection--single .select2-selection,
+.cms-slot-blocks .select2-container .select2-selection--single .select2-selection__arrow {
+  height: 33px;
+}
+.cms-slot-blocks .select2-container .select2-selection--single__rendered,
+.cms-slot-blocks .select2-container .select2-selection--single .select2-selection__rendered {
+  line-height: 33px;
+}
+.cms-slot-blocks tr:first-child .btn[data-direction=up] {
+  display: none;
+}
+.cms-slot-blocks tr:last-child .btn[data-direction=down] {
+  display: none;
+}
+.cms-slot-blocks .js-cms-slot-block-form-item {
+  display: none;
+}
+
+.cms-slot-blocks-alert button.cancel {
+  background: transparent;
+  color: #d18d21;
+  border: 1px solid #d18d21;
+  padding: 9px 30px;
+}
+.cms-slot-blocks-alert button.cancel:hover {
+  color: #fff;
+  background: #f7a54a;
+  border-color: #f7a54a;
+}
+.cms-slot-blocks-alert h2 {
+  font-size: 24px;
+}
+
+.js-row-unsaved-overlay .ibox-content {
+  position: relative;
+}
+
+.js-row-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  background: #fff;
+  opacity: 0;
+  display: none;
+  border-radius: inherit;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jc3Mvc3ByeWtlci16ZWQtY21zLXNsb3QtYmxvY2stZ3VpLW1haW4uY3NzIiwibWFwcGluZ3MiOiI7OztBQUFBOzs7RUFBQTtBQUtBO0VBQ0k7QUFBSjtBQUdRO0VBQ0k7QUFEWjtBQUlRO0VBQ0k7QUFGWjtBQU1JO0VBQ0k7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0FBSlI7QUFNUTtFQUNJO0FBSlo7QUFZZ0I7OztFQUVJO0FBVHBCO0FBWWdCOztFQUNJO0FBVHBCO0FBaUJZO0VBQ0k7QUFmaEI7QUFvQlk7RUFDSTtBQWxCaEI7QUF1Qkk7RUFDSTtBQXJCUjs7QUEwQkk7RUFDSTtFQUNBO0VBQ0E7RUFDQTtBQXZCUjtBQXlCUTtFQUNJO0VBQ0E7RUFDQTtBQXZCWjtBQTJCSTtFQUNJO0FBekJSOztBQThCSTtFQUNJO0FBM0JSOztBQStCQTtFQUNJO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0FBNUJKLEMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9zcHJ5a2VyLWIyYy1kZW1vLXNob3AvLi92ZW5kb3Ivc3ByeWtlci9jbXMtc2xvdC1ibG9jay1ndWkvYXNzZXRzL1plZC9zYXNzL21haW4uc2NzcyJdLCJzb3VyY2VzQ29udGVudCI6WyIvKipcbiAqIENvcHlyaWdodCAoYykgMjAxNi1wcmVzZW50IFNwcnlrZXIgU3lzdGVtcyBHbWJILiBBbGwgcmlnaHRzIHJlc2VydmVkLlxuICogVXNlIG9mIHRoaXMgc29mdHdhcmUgcmVxdWlyZXMgYWNjZXB0YW5jZSBvZiB0aGUgRXZhbHVhdGlvbiBMaWNlbnNlIEFncmVlbWVudC4gU2VlIExJQ0VOU0UgZmlsZS5cbiAqL1xuXG4uY21zLXNsb3QtYmxvY2tzIHtcbiAgICBwb3NpdGlvbjogcmVsYXRpdmU7XG5cbiAgICAmX19jb2wge1xuICAgICAgICAmOm5vdCg6Zmlyc3QtY2hpbGQpIHtcbiAgICAgICAgICAgIHBhZGRpbmctbGVmdDogMDtcbiAgICAgICAgfVxuXG4gICAgICAgICY6bGFzdC1jaGlsZCB7XG4gICAgICAgICAgICB0ZXh0LWFsaWduOiByaWdodDtcbiAgICAgICAgfVxuICAgIH1cblxuICAgICZfX292ZXJsYXkge1xuICAgICAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gICAgICAgIGxlZnQ6IDA7XG4gICAgICAgIHRvcDogMDtcbiAgICAgICAgcmlnaHQ6IDA7XG4gICAgICAgIGJvdHRvbTogMDtcbiAgICAgICAgei1pbmRleDogMTA7XG5cbiAgICAgICAgJi0taGlkZGVuIHtcbiAgICAgICAgICAgIGRpc3BsYXk6IG5vbmU7XG4gICAgICAgIH1cbiAgICB9XG5cbiAgICAuc2VsZWN0Mi1jb250YWluZXIge1xuICAgICAgICAuc2VsZWN0Mi1zZWxlY3Rpb24tLXNpbmdsZSB7XG4gICAgICAgICAgICAmLFxuICAgICAgICAgICAgLnNlbGVjdDItc2VsZWN0aW9uIHtcbiAgICAgICAgICAgICAgICAmLFxuICAgICAgICAgICAgICAgICZfX2Fycm93IHtcbiAgICAgICAgICAgICAgICAgICAgaGVpZ2h0OiAzM3B4O1xuICAgICAgICAgICAgICAgIH1cblxuICAgICAgICAgICAgICAgICZfX3JlbmRlcmVkIHtcbiAgICAgICAgICAgICAgICAgICAgbGluZS1oZWlnaHQ6IDMzcHg7XG4gICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgfVxuICAgICAgICB9XG4gICAgfVxuXG4gICAgdHIge1xuICAgICAgICAmOmZpcnN0LWNoaWxkIHtcbiAgICAgICAgICAgIC5idG5bZGF0YS1kaXJlY3Rpb249J3VwJ10ge1xuICAgICAgICAgICAgICAgIGRpc3BsYXk6IG5vbmU7XG4gICAgICAgICAgICB9XG4gICAgICAgIH1cblxuICAgICAgICAmOmxhc3QtY2hpbGQge1xuICAgICAgICAgICAgLmJ0bltkYXRhLWRpcmVjdGlvbj0nZG93biddIHtcbiAgICAgICAgICAgICAgICBkaXNwbGF5OiBub25lO1xuICAgICAgICAgICAgfVxuICAgICAgICB9XG4gICAgfVxuXG4gICAgLmpzLWNtcy1zbG90LWJsb2NrLWZvcm0taXRlbSB7XG4gICAgICAgIGRpc3BsYXk6IG5vbmU7XG4gICAgfVxufVxuXG4uY21zLXNsb3QtYmxvY2tzLWFsZXJ0IHtcbiAgICBidXR0b24uY2FuY2VsIHtcbiAgICAgICAgYmFja2dyb3VuZDogdHJhbnNwYXJlbnQ7XG4gICAgICAgIGNvbG9yOiAjZDE4ZDIxO1xuICAgICAgICBib3JkZXI6IDFweCBzb2xpZCAjZDE4ZDIxO1xuICAgICAgICBwYWRkaW5nOiA5cHggMzBweDtcblxuICAgICAgICAmOmhvdmVyIHtcbiAgICAgICAgICAgIGNvbG9yOiAjZmZmO1xuICAgICAgICAgICAgYmFja2dyb3VuZDogI2Y3YTU0YTtcbiAgICAgICAgICAgIGJvcmRlci1jb2xvcjogI2Y3YTU0YTtcbiAgICAgICAgfVxuICAgIH1cblxuICAgIGgyIHtcbiAgICAgICAgZm9udC1zaXplOiAyNHB4O1xuICAgIH1cbn1cblxuLmpzLXJvdy11bnNhdmVkLW92ZXJsYXkge1xuICAgIC5pYm94LWNvbnRlbnQge1xuICAgICAgICBwb3NpdGlvbjogcmVsYXRpdmU7XG4gICAgfVxufVxuXG4uanMtcm93LW92ZXJsYXkge1xuICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICB0b3A6IDA7XG4gICAgYm90dG9tOiAwO1xuICAgIGxlZnQ6IDA7XG4gICAgcmlnaHQ6IDA7XG4gICAgei1pbmRleDogMTAwO1xuICAgIGJhY2tncm91bmQ6ICNmZmY7XG4gICAgb3BhY2l0eTogMDtcbiAgICBkaXNwbGF5OiBub25lO1xuICAgIGJvcmRlci1yYWRpdXM6IGluaGVyaXQ7XG59XG4iXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=*/

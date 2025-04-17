@@ -1,0 +1,43 @@
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/@spryker/oryx-for-zed/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!./vendor/spryker/sales-return-gui/assets/Zed/scss/main.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.select-reason {
+  min-width: 250px;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+.header-actions {
+  display: flex;
+  justify-content: flex-end;
+}
+.header-actions .form-group {
+  margin-bottom: 0;
+  margin-left: 5px;
+}
+.header-actions .btn {
+  margin-bottom: 0;
+}
+
+.addition-row td {
+  border-top: none !important;
+}
+
+.bundle-item {
+  display: flex;
+}
+.bundle-item .image-wrap {
+  margin-right: 16px;
+  flex-shrink: 0;
+}
+.bundle-item--with-checkbox .image-wrap {
+  margin-left: 16px;
+}
+
+.word-break-all {
+  word-break: break-all;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jc3Mvc3ByeWtlci16ZWQtc2FsZXMtcmV0dXJuLWd1aS1tYWluLmNzcyIsIm1hcHBpbmdzIjoiOzs7QUFBQTtFQUNJO0FBQ0o7O0FBRUE7RUFDSTtBQUNKOztBQUVBO0VBQ0k7RUFDQTtBQUNKO0FBQ0k7RUFDSTtFQUNBO0FBQ1I7QUFFSTtFQUNJO0FBQVI7O0FBS0k7RUFDSTtBQUZSOztBQU1BO0VBQ0k7QUFISjtBQUtJO0VBQ0k7RUFDQTtBQUhSO0FBT1E7RUFDSTtBQUxaOztBQVVBO0VBQ0k7QUFQSixDIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vc3ByeWtlci1iMmMtZGVtby1zaG9wLy4vdmVuZG9yL3NwcnlrZXIvc2FsZXMtcmV0dXJuLWd1aS9hc3NldHMvWmVkL3Njc3MvbWFpbi5zY3NzIl0sInNvdXJjZXNDb250ZW50IjpbIi5zZWxlY3QtcmVhc29uIHtcbiAgICBtaW4td2lkdGg6IDI1MHB4O1xufVxuXG4uZm9ybS1ncm91cCB7XG4gICAgbWFyZ2luLWJvdHRvbTogNXB4O1xufVxuXG4uaGVhZGVyLWFjdGlvbnMge1xuICAgIGRpc3BsYXk6IGZsZXg7XG4gICAganVzdGlmeS1jb250ZW50OiBmbGV4LWVuZDtcblxuICAgIC5mb3JtLWdyb3VwIHtcbiAgICAgICAgbWFyZ2luLWJvdHRvbTogMDtcbiAgICAgICAgbWFyZ2luLWxlZnQ6IDVweDtcbiAgICB9XG5cbiAgICAuYnRuIHtcbiAgICAgICAgbWFyZ2luLWJvdHRvbTogMDtcbiAgICB9XG59XG5cbi5hZGRpdGlvbi1yb3cge1xuICAgIHRkIHtcbiAgICAgICAgYm9yZGVyLXRvcDogbm9uZSAhaW1wb3J0YW50O1xuICAgIH1cbn1cblxuLmJ1bmRsZS1pdGVtIHtcbiAgICBkaXNwbGF5OiBmbGV4O1xuXG4gICAgLmltYWdlLXdyYXAge1xuICAgICAgICBtYXJnaW4tcmlnaHQ6IDE2cHg7XG4gICAgICAgIGZsZXgtc2hyaW5rOiAwO1xuICAgIH1cblxuICAgICYtLXdpdGgtY2hlY2tib3gge1xuICAgICAgICAuaW1hZ2Utd3JhcCB7XG4gICAgICAgICAgICBtYXJnaW4tbGVmdDogMTZweDtcbiAgICAgICAgfVxuICAgIH1cbn1cblxuLndvcmQtYnJlYWstYWxsIHtcbiAgICB3b3JkLWJyZWFrOiBicmVhay1hbGw7XG59XG4iXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=*/

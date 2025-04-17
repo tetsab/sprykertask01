@@ -1,0 +1,31 @@
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/@spryker/oryx-for-zed/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!./vendor/spryker/product-option/assets/Zed/sass/main.scss ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/**
+ * Copyright (c) 2016-present Spryker Systems GmbH. All rights reserved.
+ * Use of this software requires acceptance of the Evaluation License Agreement. See LICENSE file.
+ */
+.form-product-option-row,
+.form-product-option-translation-row {
+  margin: 0px 0px 30px 0px;
+}
+.form-product-option-row .form-group,
+.form-product-option-translation-row .form-group {
+  vertical-align: top;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.select-all-btn .active {
+  font-weight: bold;
+}
+
+table.dataTable.gui-table-data {
+  width: 100% !important;
+}
+
+.copy-language {
+  display: block;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jc3Mvc3ByeWtlci16ZWQtcHJvZHVjdC1vcHRpb24tbWFpbi5jc3MiLCJtYXBwaW5ncyI6Ijs7O0FBQUE7OztFQUFBO0FBS0E7O0VBUUk7QUFOSjtBQUFJOztFQUNJO0VBQ0E7RUFDQTtBQUdSOztBQUlJO0VBQ0k7QUFEUjs7QUFLQTtFQUNJO0FBRko7O0FBS0E7RUFDSTtBQUZKLEMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9zcHJ5a2VyLWIyYy1kZW1vLXNob3AvLi92ZW5kb3Ivc3ByeWtlci9wcm9kdWN0LW9wdGlvbi9hc3NldHMvWmVkL3Nhc3MvbWFpbi5zY3NzIl0sInNvdXJjZXNDb250ZW50IjpbIi8qKlxuICogQ29weXJpZ2h0IChjKSAyMDE2LXByZXNlbnQgU3ByeWtlciBTeXN0ZW1zIEdtYkguIEFsbCByaWdodHMgcmVzZXJ2ZWQuXG4gKiBVc2Ugb2YgdGhpcyBzb2Z0d2FyZSByZXF1aXJlcyBhY2NlcHRhbmNlIG9mIHRoZSBFdmFsdWF0aW9uIExpY2Vuc2UgQWdyZWVtZW50LiBTZWUgTElDRU5TRSBmaWxlLlxuICovXG5cbi5mb3JtLXByb2R1Y3Qtb3B0aW9uLXJvdyxcbi5mb3JtLXByb2R1Y3Qtb3B0aW9uLXRyYW5zbGF0aW9uLXJvdyB7XG4gICAgLmZvcm0tZ3JvdXAge1xuICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogdG9wO1xuICAgICAgICBtYXJnaW4tdG9wOiA1cHg7XG4gICAgICAgIG1hcmdpbi1ib3R0b206IDVweDtcbiAgICB9XG5cbiAgICBtYXJnaW46IDBweCAwcHggMzBweCAwcHg7XG59XG5cbi5zZWxlY3QtYWxsLWJ0biB7XG4gICAgLmFjdGl2ZSB7XG4gICAgICAgIGZvbnQtd2VpZ2h0OiBib2xkO1xuICAgIH1cbn1cblxudGFibGUuZGF0YVRhYmxlLmd1aS10YWJsZS1kYXRhIHtcbiAgICB3aWR0aDogMTAwJSAhaW1wb3J0YW50O1xufVxuXG4uY29weS1sYW5ndWFnZSB7XG4gICAgZGlzcGxheTogYmxvY2s7XG59XG4iXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=*/

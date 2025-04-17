@@ -1,0 +1,37 @@
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/@spryker/oryx-for-zed/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!./vendor/spryker/product-category-filter-gui/assets/Zed/sass/filters.scss ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.filter-item {
+  font-weight: bold;
+  background: #fbfbfb;
+  position: relative;
+}
+.filter-item .dd-handle {
+  padding-left: 45px;
+}
+
+.re-add-product-category-filter,
+.remove-product-category-filter {
+  position: absolute;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+.no-padding-left {
+  padding-left: 0 !important;
+}
+
+#save-success {
+  display: none;
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.non-filter-attribute .dd-handle,
+.non-filter-attribute .dd-handle:hover,
+.non-filter-attribute {
+  font-weight: lighter !important;
+  font-style: italic !important;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jc3Mvc3ByeWtlci16ZWQtcHJvZHVjdC1jYXRlZ29yeS1maWx0ZXItZm9ybS5jc3MiLCJtYXBwaW5ncyI6Ijs7O0FBQUE7RUFDSTtFQUNBO0VBQ0E7QUFDSjtBQUNJO0VBQ0k7QUFDUjs7QUFHQTs7RUFFSTtFQUNBO0VBQ0E7QUFBSjs7QUFHQTtFQUNJO0FBQUo7O0FBR0E7RUFDSTtFQUNBO0VBQ0E7QUFBSjs7QUFHQTs7O0VBR0k7RUFDQTtBQUFKLEMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9zcHJ5a2VyLWIyYy1kZW1vLXNob3AvLi92ZW5kb3Ivc3ByeWtlci9wcm9kdWN0LWNhdGVnb3J5LWZpbHRlci1ndWkvYXNzZXRzL1plZC9zYXNzL2ZpbHRlcnMuc2NzcyJdLCJzb3VyY2VzQ29udGVudCI6WyIuZmlsdGVyLWl0ZW0ge1xuICAgIGZvbnQtd2VpZ2h0OiBib2xkO1xuICAgIGJhY2tncm91bmQ6ICNmYmZiZmI7XG4gICAgcG9zaXRpb246IHJlbGF0aXZlO1xuXG4gICAgLmRkLWhhbmRsZSB7XG4gICAgICAgIHBhZGRpbmctbGVmdDogNDVweDtcbiAgICB9XG59XG5cbi5yZS1hZGQtcHJvZHVjdC1jYXRlZ29yeS1maWx0ZXIsXG4ucmVtb3ZlLXByb2R1Y3QtY2F0ZWdvcnktZmlsdGVyIHtcbiAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gICAgbWFyZ2luLXRvcDogNXB4O1xuICAgIG1hcmdpbi1sZWZ0OiA1cHg7XG59XG5cbi5uby1wYWRkaW5nLWxlZnQge1xuICAgIHBhZGRpbmctbGVmdDogMCAhaW1wb3J0YW50O1xufVxuXG4jc2F2ZS1zdWNjZXNzIHtcbiAgICBkaXNwbGF5OiBub25lO1xuICAgIG9wYWNpdHk6IDA7XG4gICAgZmlsdGVyOiBhbHBoYShvcGFjaXR5PTApO1xufVxuXG4ubm9uLWZpbHRlci1hdHRyaWJ1dGUgLmRkLWhhbmRsZSxcbi5ub24tZmlsdGVyLWF0dHJpYnV0ZSAuZGQtaGFuZGxlOmhvdmVyLFxuLm5vbi1maWx0ZXItYXR0cmlidXRlIHtcbiAgICBmb250LXdlaWdodDogbGlnaHRlciAhaW1wb3J0YW50O1xuICAgIGZvbnQtc3R5bGU6IGl0YWxpYyAhaW1wb3J0YW50O1xufVxuIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9*/

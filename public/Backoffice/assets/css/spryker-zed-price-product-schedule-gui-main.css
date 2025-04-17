@@ -1,0 +1,11 @@
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/@spryker/oryx-for-zed/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!./vendor/spryker/price-product-schedule-gui/assets/Zed/sass/main.scss ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+#price_product_schedule_activeFrom_date,
+#price_product_schedule_activeTo_date,
+#price_product_schedule_activeFrom_time_minute,
+#price_product_schedule_activeTo_time_minute {
+  margin-right: 15px;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jc3Mvc3ByeWtlci16ZWQtcHJpY2UtcHJvZHVjdC1zY2hlZHVsZS1ndWktbWFpbi5jc3MiLCJtYXBwaW5ncyI6Ijs7O0FBQUE7Ozs7RUFJSTtBQUNKLEMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9zcHJ5a2VyLWIyYy1kZW1vLXNob3AvLi92ZW5kb3Ivc3ByeWtlci9wcmljZS1wcm9kdWN0LXNjaGVkdWxlLWd1aS9hc3NldHMvWmVkL3Nhc3MvbWFpbi5zY3NzIl0sInNvdXJjZXNDb250ZW50IjpbIiNwcmljZV9wcm9kdWN0X3NjaGVkdWxlX2FjdGl2ZUZyb21fZGF0ZSxcbiNwcmljZV9wcm9kdWN0X3NjaGVkdWxlX2FjdGl2ZVRvX2RhdGUsXG4jcHJpY2VfcHJvZHVjdF9zY2hlZHVsZV9hY3RpdmVGcm9tX3RpbWVfbWludXRlLFxuI3ByaWNlX3Byb2R1Y3Rfc2NoZWR1bGVfYWN0aXZlVG9fdGltZV9taW51dGUge1xuICAgIG1hcmdpbi1yaWdodDogMTVweDtcbn1cbiJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==*/

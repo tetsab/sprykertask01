@@ -1,0 +1,33 @@
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/@spryker/oryx-for-zed/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!./vendor/spryker/customer-note-gui/assets/Zed/scss/main.scss ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.chat {
+  font-size: 11px;
+  margin-bottom: 20px;
+}
+.chat .chat-author {
+  font-size: 12px;
+  margin: 0;
+}
+.chat .chat-author span {
+  background: #f0f0f0;
+  padding: 5px;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+}
+.chat .chat-body {
+  background: #f0f0f0;
+  padding: 5px 5px 10px;
+  border-top-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+
+.chat-form {
+  padding-top: 10px;
+}
+.chat-form .col-xs-12 {
+  margin-bottom: 5px;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jc3Mvc3ByeWtlci16ZWQtY3VzdG9tZXItbm90ZS1ndWktbWFpbi5jc3MiLCJtYXBwaW5ncyI6Ijs7O0FBR0E7RUFDSTtFQUNBO0FBRko7QUFJSTtFQUNJO0VBQ0E7QUFGUjtBQUlRO0VBQ0ksbUJBWGdCO0VBWWhCO0VBQ0EsMkJBZE07RUFlTiw0QkFmTTtBQWFsQjtBQU1JO0VBQ0ksbUJBbkJvQjtFQW9CcEI7RUFDQSw0QkF0QlU7RUF1QlYsOEJBdkJVO0VBd0JWLCtCQXhCVTtBQW9CbEI7O0FBUUE7RUFDSTtBQUxKO0FBT0k7RUFDSTtBQUxSLEMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9zcHJ5a2VyLWIyYy1kZW1vLXNob3AvLi92ZW5kb3Ivc3ByeWtlci9jdXN0b21lci1ub3RlLWd1aS9hc3NldHMvWmVkL3Njc3MvbWFpbi5zY3NzIl0sInNvdXJjZXNDb250ZW50IjpbIiRjaGF0LWJveC1yYWRpdXM6IDZweDtcbiRjaGF0LWJveC1iYWNrZ3JvdW5kLWNvbG9yOiAjZjBmMGYwO1xuXG4uY2hhdCB7XG4gICAgZm9udC1zaXplOiAxMXB4O1xuICAgIG1hcmdpbi1ib3R0b206IDIwcHg7XG5cbiAgICAuY2hhdC1hdXRob3Ige1xuICAgICAgICBmb250LXNpemU6IDEycHg7XG4gICAgICAgIG1hcmdpbjogMDtcblxuICAgICAgICBzcGFuIHtcbiAgICAgICAgICAgIGJhY2tncm91bmQ6ICRjaGF0LWJveC1iYWNrZ3JvdW5kLWNvbG9yO1xuICAgICAgICAgICAgcGFkZGluZzogNXB4O1xuICAgICAgICAgICAgYm9yZGVyLXRvcC1sZWZ0LXJhZGl1czogJGNoYXQtYm94LXJhZGl1cztcbiAgICAgICAgICAgIGJvcmRlci10b3AtcmlnaHQtcmFkaXVzOiAkY2hhdC1ib3gtcmFkaXVzO1xuICAgICAgICB9XG4gICAgfVxuXG4gICAgLmNoYXQtYm9keSB7XG4gICAgICAgIGJhY2tncm91bmQ6ICRjaGF0LWJveC1iYWNrZ3JvdW5kLWNvbG9yO1xuICAgICAgICBwYWRkaW5nOiA1cHggNXB4IDEwcHg7XG4gICAgICAgIGJvcmRlci10b3AtcmlnaHQtcmFkaXVzOiAkY2hhdC1ib3gtcmFkaXVzO1xuICAgICAgICBib3JkZXItYm90dG9tLWxlZnQtcmFkaXVzOiAkY2hhdC1ib3gtcmFkaXVzO1xuICAgICAgICBib3JkZXItYm90dG9tLXJpZ2h0LXJhZGl1czogJGNoYXQtYm94LXJhZGl1cztcbiAgICB9XG59XG5cbi5jaGF0LWZvcm0ge1xuICAgIHBhZGRpbmctdG9wOiAxMHB4O1xuXG4gICAgLmNvbC14cy0xMiB7XG4gICAgICAgIG1hcmdpbi1ib3R0b206IDVweDtcbiAgICB9XG59XG4iXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=*/

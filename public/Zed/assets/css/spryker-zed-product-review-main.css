@@ -1,0 +1,20 @@
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/@spryker/oryx-for-zed/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!./vendor/spryker/product-review-gui/assets/Zed/sass/main.scss ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+#product-review-table i.fa-chevron-down {
+  padding: 7px;
+  cursor: pointer;
+}
+#product-review-table table.details {
+  margin-bottom: 15px;
+}
+#product-review-table table.details th,
+#product-review-table table.details td {
+  padding-bottom: 5px;
+}
+#product-review-table table.details th {
+  padding-right: 10px;
+  vertical-align: top;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jc3Mvc3ByeWtlci16ZWQtcHJvZHVjdC1yZXZpZXctbWFpbi5jc3MiLCJtYXBwaW5ncyI6Ijs7O0FBQ0k7RUFDSTtFQUNBO0FBQVI7QUFHSTtFQUNJO0FBRFI7QUFHUTs7RUFFSTtBQURaO0FBSVE7RUFDSTtFQUNBO0FBRlosQyIsInNvdXJjZXMiOlsid2VicGFjazovL3NwcnlrZXItYjJjLWRlbW8tc2hvcC8uL3ZlbmRvci9zcHJ5a2VyL3Byb2R1Y3QtcmV2aWV3LWd1aS9hc3NldHMvWmVkL3Nhc3MvbWFpbi5zY3NzIl0sInNvdXJjZXNDb250ZW50IjpbIiNwcm9kdWN0LXJldmlldy10YWJsZSB7XG4gICAgaS5mYS1jaGV2cm9uLWRvd24ge1xuICAgICAgICBwYWRkaW5nOiA3cHg7XG4gICAgICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICB9XG5cbiAgICB0YWJsZS5kZXRhaWxzIHtcbiAgICAgICAgbWFyZ2luLWJvdHRvbTogMTVweDtcblxuICAgICAgICB0aCxcbiAgICAgICAgdGQge1xuICAgICAgICAgICAgcGFkZGluZy1ib3R0b206IDVweDtcbiAgICAgICAgfVxuXG4gICAgICAgIHRoIHtcbiAgICAgICAgICAgIHBhZGRpbmctcmlnaHQ6IDEwcHg7XG4gICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogdG9wO1xuICAgICAgICB9XG4gICAgfVxufVxuIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9*/
