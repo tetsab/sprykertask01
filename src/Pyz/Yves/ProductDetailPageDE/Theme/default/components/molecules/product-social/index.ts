@@ -1,0 +1,1 @@
+import './product-social.scss'

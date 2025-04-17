@@ -1,0 +1,9 @@
+<transfers xmlns="spryker:transfer-01">
+    <transfer name="Book">
+        <property name="title" type="string" />
+        <property name="author" type="string" />
+        <property name="isbn" type="string" required="true" />
+        <property name="publishedDate" type="string" />
+        <property name="price" type="float" />
+    </transfer>
+</transfers>

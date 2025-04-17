@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<database name="zed"
+namespace="Orm\Zed\Book\Persistence"
+package="src.Orm.Zed.Book.Persistence">
+
+    <table name="pyz_book">
+        <column name="id_book" type="INTEGER" primaryKey="true" autoIncrement="true" />
+        <column name="title" type="VARCHAR" required="true" />
+        <column name="author" type="VARCHAR" required="true" />
+        <column name="isbn" type="VARCHAR" required="true" />
+        <column name="published_date" type="DATE" required="true" />
+        <column name="price" type="DECIMAL" required="true" size="10" scale="2" />
+
+        <unique>
+            <unique-column name="isbn"/>
+        </unique>
+    </table>
+
+</database>

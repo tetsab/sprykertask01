@@ -1,0 +1,64 @@
+{%  extends model('component') %}
+
+{% define config = {
+    name: 'product-social',
+    tag: 'div'
+} %}
+
+{% define data = {
+    showTwitter: 1,
+    showInstagram: 1,
+    showLinkedin: 1,
+    showPinterest: 1,
+    showFacebook: 1,
+    product: required,
+    shopUrl: _view.productUrl,
+    shopHost: app.request.getSchemeAndHttpHost(),
+    title: _view.product.metaTitle | default(_view.product.name)
+
+} %}
+
+{% set productUrl = "#{data.shopHost} /#{data.shopUrl}" %}
+{% set twitterUrl = "https://twitter.com/intent/tweet?text=#{data.title | url_encode}&url=#{productUrl | url_encode}" %}
+
+
+
+{% block body %}
+    {# {% dump(twitterUrl) %} #}
+    <div class ="{{ config.name }}__container">
+        {% if data.showFacebook %}
+        <!-- Facebook -->
+        <a target="_blank" data-mdb-ripple-init class="btn btn-primary" style="background-color: #3b5998;" href="#!" role="button"
+        ><i class="bi bi-facebook"></i
+        ></a>
+        {% endif %}
+
+        {% if data.showTwitter %}
+        <!-- Twitter -->
+        <a target="_blank" data-mdb-ripple-init class="btn btn-primary" style="background-color: #55acee;" href="{{twitterUrl}}" role="button"
+        ><i class="bi bi-twitter"></i
+        ></a>
+        {% endif %}
+
+        {% if data.showInstagram %}
+        <!-- Instagram -->
+        <a target="_blank" data-mdb-ripple-init class="btn btn-primary" style="background-color: #ac2bac;" href="#!" role="button"
+        ><i class="bi bi-instagram"></i
+        ></a>
+        {% endif %}
+
+        {% if data.showLinkedin %}
+        <!-- Linkedin -->
+        <a target="_blank" target="_blank" data-mdb-ripple-init class="btn btn-primary" style="background-color: #0082ca;" href="#!" role="button"
+        ><i class="bi bi-linkedin-in"></i
+        ></a>
+        {% endif %}
+
+        {% if data.showPinterest %}
+        <!-- Pinterest -->
+        <a target="_blank" data-mdb-ripple-init class="btn btn-primary" style="background-color: #c61118;" href="#!" role="button"
+        ><i class="bi bi-pinterest"></i
+        ></a>
+        {% endif %}
+    </div>
+{% endblock body %}
